@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Topics-antd-react/static/css/main.31d6cfe0.css",
+    "main.js": "/Topics-antd-react/static/js/main.c40a413d.js",
+    "index.html": "/Topics-antd-react/index.html",
+    "main.c40a413d.js.map": "/Topics-antd-react/static/js/main.c40a413d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c40a413d.js"
+  ]
+}
